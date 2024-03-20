@@ -1,5 +1,5 @@
 {
-    "name": "drandin/closure-table-comments",
+    "name": "alexkag/closure-table-comments",
     "description": "A system for managing hierarchical tree comments. Storing hierarchical tree structures in a database using the \"Closure Table\" method combined with \"Adjacency List\"",
     "keywords": [
         "hierarchical",
